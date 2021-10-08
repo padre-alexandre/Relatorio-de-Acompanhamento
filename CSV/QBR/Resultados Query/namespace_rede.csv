@@ -1,0 +1,644 @@
+,name,grupo,namespace
+0,A+ Digital,Physics,physicsconselheirofurtado
+1,A+ Digital,Physics,physicsalmirantebarroso
+2,A+ Digital,Physics,physicsumarizal
+3,A+ Digital,Physics,physicsmacapa
+4,A+ Digital,Physics,physicsbatistacampos
+5,A+ Digital,Magnum,colegiomagnum
+6,A+ Digital,Domus e Montessori,domus
+7,A+ Digital,Domus e Montessori,montessori
+8,A+ Digital,Acesso,acessosjpinhais
+9,A+ Digital,Simbios,simbios
+10,A+ Digital,Acesso,acessoalmirantetamandare
+11,A+ Digital,Ênfase,cursoenfase
+12,A+ Digital,Physics,physicsalcindocacela
+13,A+ Digital,Acesso,acessoboqueirao
+14,A+ Digital,Over,overmarciliofurtado
+15,A+ Digital,Over,overabelcabral
+16,A+ Digital,Physics,physicsaugustomontenegro
+17,A+ Digital,Over,overmossoro
+18,A+ Digital,Acesso,acessocampolargo
+19,A+ Digital,Universitário,universitariolondrina
+20,A+ Digital,Over,overzonanorte
+21,A+ Digital,Marília Mattoso,mariliamattoso
+22,A+ Digital,Itamarati,itamarati
+23,A+ Digital,Acesso,acessocampolargokids
+24,A+ Digital,Contemporaneo,contemporaneocidadeverde
+25,A+ Digital,João Paulo,colegiojoaopaulo
+26,A+ Digital,Contemporaneo,contemporaneolagoanova
+27,A+ Digital,Physics,physicstrescoracoes
+28,A+ Digital,Stella Maris,stellamarisxaxim
+29,A+ Digital,Idaam,idaam
+30,A+ Digital,Acesso,acessoemilianoperneta
+31,A+ Digital,Acesso,acessofazendariogrande
+32,A+ Digital,Acesso,acessohauer
+33,A+ Digital,Acesso,acessopinhais
+34,A+ Digital,Acesso,acessosantafelicidade
+35,A+ Digital,Stella Maris,stellamarisjuveve
+36,A+ Digital,Stella Maris,stellamarisaguaverde
+37,A+ Digital,Novo Tempo,novotempo
+38,A+ Digital,Elite,eliteemilianoperneta
+39,A+ Digital,Portinari,portinari
+40,A+ Digital,Elite,elitecuritiba
+41,A+ Digital,Elite,elitecuritibaemilianoperneta
+42,A+ Digital,Primeiro Mundo,ceprimeiromundo
+43,A+ Digital,Over,overnascimentodecastro
+44,A+ Digital,Over,overlimaesilva
+45,A+ Digital,Over,overpontanegra
+46,A+ Digital,Over,overjoaopessoa
+47,SAS - Programa de Avaliação Seriada,Prospecção PAS,lasalleaguasclaras
+48,SAS - Programa de Avaliação Seriada,Prospecção PAS,institutoauxiliadoradf
+49,SAS - Programa de Avaliação Seriada,Prospecção PAS,cecbdf
+50,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegioeccos
+51,SAS - Programa de Avaliação Seriada,Prospecção Adapt,imaculada
+52,SAS - Programa de Avaliação Seriada,Pilotos 2021,plataformaamais
+53,SAS - Programa de Avaliação Seriada,Adapt,porto
+54,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santoagostinho
+55,SAS - Programa de Avaliação Seriada,PAS,podion
+56,SAS - Programa de Avaliação Seriada,Prospecção Adapt,saojosecaxiasdosul
+57,SAS - Programa de Avaliação Seriada,Prospecção SSA,colsantacatarinape
+58,SAS - Programa de Avaliação Seriada,Prospecção SSA,colevolucao
+59,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegioecursoover
+60,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegiodourado
+61,SAS - Programa de Avaliação Seriada,Prospecção SSA,geracaoatual
+62,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosantadoroteia
+63,SAS - Programa de Avaliação Seriada,Interno,sasadaptem
+64,SAS - Programa de Avaliação Seriada,Interno,sasadaptfund
+65,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegionobre
+66,SAS - Programa de Avaliação Seriada,Prospecção Adapt,anchietaba
+67,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cparaiso
+68,SAS - Programa de Avaliação Seriada,Prospecção Adapt,bosquemananciais
+69,SAS - Programa de Avaliação Seriada,Prospecção Adapt,saea
+70,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegioexatus
+71,SAS - Programa de Avaliação Seriada,Prospecção SSA,plenuspetrolina
+72,SAS - Programa de Avaliação Seriada,Prospecção Adapt,serios
+73,SAS - Programa de Avaliação Seriada,Prospecção Adapt,escolajardimdasnacoes
+74,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosaojudas
+75,SAS - Programa de Avaliação Seriada,Prospecção Adapt,alfacembilingue
+76,SAS - Programa de Avaliação Seriada,Prospecção Adapt,dommga
+77,SAS - Programa de Avaliação Seriada,Pilotos 2021,idb
+78,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegioecursoviver
+79,SAS - Programa de Avaliação Seriada,Prospecção SSA,cicserratalhada
+80,SAS - Programa de Avaliação Seriada,Adapt,liessin
+81,SAS - Programa de Avaliação Seriada,PAS,colegiobiangulo
+82,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santoantonio
+83,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santoagostinhomg
+84,SAS - Programa de Avaliação Seriada,Prospecção Adapt,augustolaranja
+85,SAS - Programa de Avaliação Seriada,Interno,santoamericoteste
+86,SAS - Programa de Avaliação Seriada,Prospecção Adapt,motiva
+87,SAS - Programa de Avaliação Seriada,Prospecção Adapt,albertsabin
+88,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiomartinus
+89,SAS - Programa de Avaliação Seriada,Prospecção Adapt,arena
+90,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cfc
+91,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosaoluis
+92,SAS - Programa de Avaliação Seriada,Prospecção Adapt,veracruz
+93,SAS - Programa de Avaliação Seriada,Adapt,santoamerico
+94,SAS - Programa de Avaliação Seriada,Prospecção Adapt,escolainternacional
+95,SAS - Programa de Avaliação Seriada,Pilotos 2021,ismart
+96,SAS - Programa de Avaliação Seriada,Prospecção Adapt,oswalddeandrade
+97,SAS - Programa de Avaliação Seriada,Prospecção PAS,cmdpii
+98,SAS - Programa de Avaliação Seriada,Prospecção Adapt,navegasas
+99,SAS - Programa de Avaliação Seriada,Prospecção Adapt,jardimsaopaulo
+100,SAS - Programa de Avaliação Seriada,Prospecção Adapt,classea
+101,SAS - Programa de Avaliação Seriada,Prospecção Adapt,saobento
+102,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cruzeiro
+103,SAS - Programa de Avaliação Seriada,Prospecção Adapt,notredame
+104,SAS - Programa de Avaliação Seriada,Prospecção Adapt,escoladofuturo
+105,SAS - Programa de Avaliação Seriada,Prospecção Adapt,lerote
+106,SAS - Programa de Avaliação Seriada,Prospecção Adapt,equipe
+107,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegioeximius
+108,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegiocfi
+109,SAS - Programa de Avaliação Seriada,Prospecção SSA,colveracruz
+110,SAS - Programa de Avaliação Seriada,Prospecção Adapt,franciscanopioxii
+111,SAS - Programa de Avaliação Seriada,Prospecção Adapt,saoluiz
+112,SAS - Programa de Avaliação Seriada,Prospecção SSA,czcnet
+113,SAS - Programa de Avaliação Seriada,Prospecção SSA,colcognicao
+114,SAS - Programa de Avaliação Seriada,Prospecção SSA,salesianorecife
+115,SAS - Programa de Avaliação Seriada,Prospecção SSA,colshalom
+116,SAS - Programa de Avaliação Seriada,Prospecção SSA,colsorriso
+117,SAS - Programa de Avaliação Seriada,Prospecção Adapt,benjaminconstant
+118,SAS - Programa de Avaliação Seriada,Prospecção Adapt,gaylussac
+119,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santamaria
+120,SAS - Programa de Avaliação Seriada,Prospecção Adapt,magnum
+121,SAS - Programa de Avaliação Seriada,Prospecção Adapt,tomasdeaquino
+122,SAS - Programa de Avaliação Seriada,Prospecção Adapt,darwin
+123,SAS - Programa de Avaliação Seriada,Prospecção Adapt,redeapogeu
+124,SAS - Programa de Avaliação Seriada,Interno,liderasas
+125,SAS - Programa de Avaliação Seriada,Prospecção Adapt,riobrancocampinas
+126,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosuperacao
+127,SAS - Programa de Avaliação Seriada,Prospecção SSA,escprogressiva
+128,SAS - Programa de Avaliação Seriada,Prospecção SSA,plenusprevest
+129,SAS - Programa de Avaliação Seriada,Prospecção SSA,domboscopetrolina
+130,SAS - Programa de Avaliação Seriada,Prospecção SSA,novageracaope
+131,SAS - Programa de Avaliação Seriada,Prospecção SSA,diocesanocaruaru
+132,SAS - Programa de Avaliação Seriada,Prospecção PAS,colegioreacao
+133,SAS - Programa de Avaliação Seriada,Prospecção Adapt,escolaidaam
+134,SAS - Programa de Avaliação Seriada,Prospecção Adapt,charlesdarwin
+135,SAS - Programa de Avaliação Seriada,Prospecção Adapt,playpen
+136,SAS - Programa de Avaliação Seriada,Prospecção Adapt,atmo
+137,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosalesianorn
+138,SAS - Programa de Avaliação Seriada,Prospecção PAS,portalsas
+139,SAS - Programa de Avaliação Seriada,Adapt,francobrasileiro
+140,SAS - Programa de Avaliação Seriada,PAS,santadoroteia
+141,SAS - Programa de Avaliação Seriada,PAS,escolamaster
+142,SAS - Programa de Avaliação Seriada,Prospecção PAS,institutosaojose
+143,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santoagostinholeblon
+144,SAS - Programa de Avaliação Seriada,Prospecção Adapt,redefilhasdejesus
+145,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegioradar
+146,SAS - Programa de Avaliação Seriada,Prospecção SSA,colterceiromilenio
+147,SAS - Programa de Avaliação Seriada,Prospecção SSA,colprimeiraclasse
+148,SAS - Programa de Avaliação Seriada,Prospecção PAS,colegiosoma
+149,SAS - Programa de Avaliação Seriada,Prospecção SSA,anitagoncalves
+150,SAS - Programa de Avaliação Seriada,Prospecção Adapt,catarinense
+151,SAS - Programa de Avaliação Seriada,Prospecção Adapt,grandepasso
+152,SAS - Programa de Avaliação Seriada,Prospecção SSA,colmariatereza
+153,SAS - Programa de Avaliação Seriada,Prospecção SSA,colcardealarcoverde
+154,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegio15
+155,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegioagnes
+156,SAS - Programa de Avaliação Seriada,Interno,sasadapt
+157,SAS - Programa de Avaliação Seriada,PAS,colegioliceu
+158,SAS - Programa de Avaliação Seriada,PAS,colegioanchietai
+159,SAS - Programa de Avaliação Seriada,PAS,blueschooleducacional
+160,SAS - Programa de Avaliação Seriada,PAS,colegioanchietaii
+161,SAS - Programa de Avaliação Seriada,Prospecção Adapt,mobile
+162,SAS - Programa de Avaliação Seriada,Prospecção Adapt,vertice
+163,SAS - Programa de Avaliação Seriada,Prospecção Adapt,dantealighieri
+164,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegioriobranco
+165,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosaberviver
+166,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiosantamaria
+167,SAS - Programa de Avaliação Seriada,Prospecção Adapt,coreeschool
+168,SAS - Programa de Avaliação Seriada,Prospecção Adapt,forumcultural
+169,SAS - Programa de Avaliação Seriada,Adapt,portoseguro
+170,SAS - Programa de Avaliação Seriada,PAS,colegiobianguloiv
+171,SAS - Programa de Avaliação Seriada,Prospecção Adapt,jeanpiaget
+172,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cav
+173,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santamarcelina
+174,SAS - Programa de Avaliação Seriada,Prospecção Adapt,vitalbrazil
+175,SAS - Programa de Avaliação Seriada,Prospecção Adapt,nossasenhoradesion
+176,SAS - Programa de Avaliação Seriada,Prospecção Adapt,nucleo
+177,SAS - Programa de Avaliação Seriada,Prospecção Adapt,objetivoteresina
+178,SAS - Programa de Avaliação Seriada,Prospecção Adapt,visaorecife
+179,SAS - Programa de Avaliação Seriada,Prospecção Adapt,beityaacov
+180,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cognitivo
+181,SAS - Programa de Avaliação Seriada,PAS,sagradafamilia
+182,SAS - Programa de Avaliação Seriada,Prospecção Adapt,magno
+183,SAS - Programa de Avaliação Seriada,Prospecção PAS,galois
+184,SAS - Programa de Avaliação Seriada,Prospecção Adapt,dante
+185,SAS - Programa de Avaliação Seriada,Interno,saseducacao
+186,SAS - Programa de Avaliação Seriada,Adapt,liessinbarra
+187,SAS - Programa de Avaliação Seriada,Prospecção SSA,evolucaojpa
+188,SAS - Programa de Avaliação Seriada,Prospecção SSA,colhemerlindacorreia
+189,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegiodosjesuitas
+190,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegiopontualrecife
+191,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegiodompe
+192,SAS - Programa de Avaliação Seriada,Prospecção SSA,colegiofera
+193,SAS - Programa de Avaliação Seriada,Pilotos 2021,redeinspira
+194,SAS - Programa de Avaliação Seriada,Prospecção Adapt,santacruz
+195,SAS - Programa de Avaliação Seriada,Prospecção Adapt,esmg
+196,SAS - Programa de Avaliação Seriada,Prospecção Adapt,elvirabrandao
+197,SAS - Programa de Avaliação Seriada,Prospecção Adapt,bahema
+198,SAS - Programa de Avaliação Seriada,Prospecção Adapt,fundacaobradesco
+199,SAS - Programa de Avaliação Seriada,Prospecção Adapt,cognita
+200,SAS - Programa de Avaliação Seriada,Prospecção Adapt,palmares
+201,SAS - Programa de Avaliação Seriada,Prospecção Adapt,magnumagostiniano
+202,SAS - Programa de Avaliação Seriada,Prospecção Adapt,colegioprogresso
+203,APOGEU,Militar,apogeustoantonio2
+204,APOGEU,Integra,integra
+205,Teste,xxx,meta
+206,Positivo,,colegioeag
+207,Positivo,,cotemig
+208,Master Soluções,EF,colegiocanarinho
+209,Master Soluções,INFANTIL,colegioevoluir
+210,Master Soluções,INFANTIL,escolasantaclara
+211,Master Soluções,INFANTIL,colegiotelescastelao
+212,Master Soluções,INFANTIL,colegiotelesmourabrasil
+213,Master Soluções,-,contratos2021
+214,Master Soluções,EF,sosmamaecoruja
+215,Master Soluções,INFANTIL,viladainfanciaeusebio
+216,Master Soluções,INFANTIL,viladainfanciafortaleza
+217,Master Soluções,INFANTIL,marqueslima
+218,Master Soluções,INFANTIL,escolacristaboaviagem
+219,Master Soluções,EF,duquecastilho
+220,Master Soluções,INFANTIL,rosadesaron
+221,Master Soluções,EF,espacoeducar
+222,Master Soluções,INFANTIL,senninha
+223,Master Soluções,EF,tiathais
+224,Master Soluções,EF,master
+225,Master Soluções,EF,paulovi
+226,Master Soluções,EF,recriar
+227,Master Soluções,INFANTIL,vitaldidonet
+228,Master Soluções,EF,sistemaeducacionalmaster
+229,Master Soluções,EF,escolabedelandia
+230,Master Soluções,EF,rosanaponte
+231,Master Soluções,EF,educacaoinfantilsemear
+232,Master Soluções,EF,educaprime
+233,Master Soluções,INFANTIL,kidsbaby
+234,Master Soluções,EF,escolavida
+235,Master Soluções,EF,escolinhacaca
+236,Master Soluções,EF,sonhodecrianca
+237,Master Soluções,INFANTIL,centroarcadenoe
+238,Master Soluções,INFANTIL,colegiovitoria
+239,Master Soluções,INFANTIL,materdei
+240,Master Soluções,INFANTIL,pluricrecheescola
+241,Master Soluções,-,msetemporario
+242,Master Soluções,INFANTIL,escolacristacandeias
+243,Master Soluções,INFANTIL,escolacristaemaldeia
+244,Master Soluções,iNFANTIL,escolacristaempiedade
+245,Master Soluções,INFANTIL,escolacristanavarzea
+246,Master Soluções,EF,habilisescolaecurso
+247,Master Soluções,EF,institutokairos
+248,Master Soluções,INFANTIL,babycamp
+249,Master Soluções,INFANTIL,babyhouse
+250,Master Soluções,INFANTIL,colsaberviver
+251,Master Soluções,EF,tiquinhodegente
+252,Master Soluções,EF,primeiromundo
+253,Master Soluções,INFANTIL,eia
+254,Educa +,IPU,antoniolima
+255,Educa +,IPU,senhorbonfim
+256,Educa +,IPU,monsenhorgoncalo
+257,Educa +,BONITO,albertocabral
+258,Educa +,BONITO,cicerofranklin
+259,Educa +,BONITO,herciliovilanova
+260,Educa +,BONITO,josesoares
+261,Educa +,BONITO,antoniocesar
+262,Educa +,BONITO,antonioportela
+263,Educa +,BONITO,pauloviana
+264,Educa +,BONITO,pedromurilo
+265,Educa +,BONITO,tialo
+266,Educa +,IPU,joaoferreira
+267,Educa +,IPU,moaciralves
+268,Educa +,IPU,antoniomelo
+269,Educa +,IPU,valdemiracoelho
+270,Educa +,IPU,monsenhorfrancisco
+271,Educa +,IPU,joaobelem
+272,Educa +,IPU,franciscoperes
+273,Educa +,BONITO,nsconceicao
+274,Educa +,BONITO,saosebastiao
+275,Educa +,UMIRIM,vicentecravo
+276,Educa +,BONITO,marialeao
+277,Educa +,BONITO,engenhomoscou
+278,Educa +,BONITO,domhelder
+279,Educa +,BONITO,manoelbernardino
+280,Educa +,BONITO,manoelmarcelino
+281,Educa +,BONITO,mariamerces
+282,Educa +,BONITO,manoelbatista
+283,Educa +,BONITO,bernardosayao
+284,Educa +,BONITO,joaoxxiii
+285,Educa +,BONITO,mariacarmo
+286,Educa +,BONITO,arturtavares
+287,Educa +,BONITO,manoelqueiroz
+288,Educa +,BONITO,zecarioca
+289,Educa +,BONITO,benjamitacardona
+290,Educa +,BONITO,liviacarneiro
+291,Educa +,IPU,marialaura
+292,Educa +,IPU,mariaeunice
+293,Educa +,IPU,eldapereira
+294,Educa +,IPU,murilorocha
+295,Educa +,IPU,iracemarufino
+296,Educa +,IPU,goncalomartins
+297,Educa +,IPU,joaorosa
+298,Educa +,IPU,luizgonzaga
+299,Educa +,IPU,abiliomartins
+300,Educa +,IPU,conradochaves
+301,Educa +,IPU,melquiadescamelo
+302,Educa +,IPU,guilhermefilho
+303,Educa +,IPU,criancaesperanca
+304,Educa +,IPU,pedrocamelo
+305,Educa +,IPU,joaosampaio
+306,Educa +,IPU,mariaolinda
+307,Educa +,IPU,abdiasmartins
+308,Educa +,IPU,antoniairene
+309,Educa +,IPU,nsfatima
+310,Educa +,UMIRIM,josepinheiro
+311,Educa +,UMIRIM,manoelfrancisco
+312,Educa +,IPU,formacoesipu
+313,Educa +,UMIRIM,mocinhagomes
+314,Educa +,UMIRIM,zacariasliberato
+315,Educa +,UMIRIM,raimundoalves
+316,Educa +,UMIRIM,franciscopinto
+317,Educa +,BONITO,arlindocavalcanti
+318,Educa +,UMIRIM,hamiltondarocha
+319,Educa +,BONITO,josecabral
+320,Educa +,BONITO,barraazul
+321,Educa +,BONITO,josemariano
+322,Educa +,BONITO,djanirapereira
+323,Educa +,BONITO,josepiaulino
+324,QBR 2021.1,Grupo 1,spdacruz
+325,QBR 2021.1,Grupo 2,villalobos
+326,QBR 2021.1,Grupo 1,aescobjetivo
+327,QBR 2021.1,Grupo 1,ceespacolivre
+328,QBR 2021.1,Grupo 1,colegiobetelbrasileirosp
+329,QBR 2021.1,Grupo 1,colegiobilac
+330,QBR 2021.1,Grupo 1,colegiocb
+331,QBR 2021.1,Grupo 1,colegioguilhermedealmeida
+332,QBR 2021.1,Grupo 1,colegioiguatemy
+333,QBR 2021.1,Grupo 1,einsteinassis
+334,QBR 2021.1,Grupo 1,escolaceciliameireles
+335,QBR 2021.1,Grupo 1,integradaeducativa
+336,QBR 2021.1,Grupo 1,isem
+337,QBR 2021.1,Grupo 1,objetivolorena
+338,QBR 2021.1,Grupo 1,oficinadoestudante
+339,QBR 2021.1,Grupo 4,educarse
+340,QBR 2021.1,Grupo 4,institutoeurofarma
+341,QBR 2021.1,Grupo 4,adrianochan
+342,QBR 2021.1,Grupo 4,profederal
+343,QBR 2021.1,Grupo 4,anossaatmosfera
+344,QBR 2021.1,Grupo 4,cursobase
+345,QBR 2021.1,Grupo 4,cursoisfera
+346,QBR 2021.1,Grupo 4,cursoleopoldo
+347,QBR 2021.1,Grupo 4,cursosazambuja
+348,QBR 2021.1,Grupo 4,gamt
+349,QBR 2021.1,Grupo 4,laboratoriosromildo
+350,QBR 2021.1,Grupo 6,faculdadeflamingo
+351,QBR 2021.1,Grupo 8,crescercampinas
+352,QBR 2021.1,Grupo 8,educandarioterciocorreia
+353,QBR 2021.1,Grupo 8,institutocristao
+354,QBR 2021.1,Grupo 9,cbpdigital
+355,QBR 2021.1,Grupo 9,colegiobatistaindependente
+356,QBR 2021.1,Grupo 9,colegioplanck
+357,QBR 2021.1,Grupo 9,colegioup
+358,QBR 2021.1,Grupo 9,magister
+359,QBR 2021.1,Grupo 9,maplebearslz
+360,QBR 2021.1,Progressão Educação,progressaodc
+361,QBR 2021.1,Grupo 2,amadeus
+362,QBR 2021.1,Grupo 2,cem
+363,QBR 2021.1,Grupo 2,ciadosaber
+364,QBR 2021.1,Grupo 2,colegioarena
+365,QBR 2021.1,Grupo 2,colegioecursodesafio
+366,QBR 2021.1,Grupo 2,colegioensitec
+367,QBR 2021.1,Grupo 2,colegioflamingo
+368,QBR 2021.1,Grupo 2,colegiofuturageracao
+369,QBR 2021.1,Grupo 2,colegiointegral
+370,QBR 2021.1,Grupo 2,colegiosete
+371,QBR 2021.1,Progressão Educação,progressaoig
+372,QBR 2021.1,Grupo 2,conexaosaber
+373,QBR 2021.1,Grupo 2,invictus
+374,QBR 2021.1,Grupo 2,psantagema
+375,QBR 2021.1,Grupo 3,colegiobrasilia
+376,QBR 2021.1,Grupo 3,colegiodasamericas
+377,QBR 2021.1,Grupo 3,alpha
+378,QBR 2021.1,Grupo 3,ceabb
+379,QBR 2021.1,Grupo 3,eacorcovado
+380,QBR 2021.1,Grupo 3,eccos
+381,QBR 2021.1,Grupo 3,nucleocriativo
+382,QBR 2021.1,Grupo 3,pioxi
+383,QBR 2021.1,Progressão Educação,colegioecursoprogressao
+384,QBR 2021.1,Progressão Educação,cursoprogressao
+385,QBR 2021.1,Grupo 2,colegiouirapuru
+386,QBR 2021.1,Grupo 7,crb
+387,QBR 2021.1,Grupo 7,master
+388,QBR 2021.1,Grupo 7,colegioeducallis
+389,QBR 2021.1,Grupo 7,colegioglobal
+390,QBR 2021.1,Grupo 8,cnslpb
+391,QBR 2021.1,Grupo 8,litteratus
+392,QBR 2021.1,Grupo 8,prismapatrocinio
+393,QBR 2021.1,Grupo 9,deltaeducacional
+394,QBR 2021.1,Grupo 9,pioxiicolegio
+395,Cursinhos Populares,Grupo 1,cats
+396,Cursinhos Populares,Grupo 1,cursinhoeach
+397,Cursinhos Populares,Grupo 1,macvest
+398,Cursinhos Populares,Grupo 1,caur
+399,Cursinhos Populares,Grupo 1,pcf
+400,Cursinhos Populares,Grupo 1,primeirodemaio
+401,Cursinhos Populares,Grupo 1,casdvest
+402,Cursinhos Populares,Grupo 1,garra
+403,Cursinhos Populares,Grupo 1,prevest
+404,Cursinhos Populares,Grupo 1,potenciacao
+405,Cursinhos Populares,Grupo 1,casdinhosjc
+406,PES English,,centroeducacionalelohim
+407,PES English,,ulbrasaopedro
+408,PES English,,ulbrasaojoao
+409,PES English,Piloto PES,positivopassocerto
+410,PES English,,batistabrasil
+411,PES English,,suzano
+412,PES English,,ipedeassis
+413,PES English,,somar
+414,PES English,Piloto PES,positivoaguaverde
+415,PES English,Piloto PES,positivoboavista
+416,PES English,Piloto PES,positivosemeador
+417,PES English,,integrado
+418,PES English,,saojoselencoispaulista
+419,PES English,,dinamico
+420,PES English,,sapequinha
+421,PES English,,pequenoprincipe
+422,PES English,,dabisa
+423,PES English,,padrejuliomaria
+424,PES English,,souzalopez
+425,PES English,,liriodovale
+426,PES English,,ied
+427,PES English,Prospecção PES,colegiovivopiracicaba
+428,PES English,,bagozzi
+429,PES English,,bagozzikids
+430,PES English,,interativa
+431,PES English,,esibelem
+432,PES English,,monteiro
+433,PES English,Piloto PES,mundialfranciscobeltrao
+434,PES English,,materdeipatobranco
+435,PES English,,literal
+436,PES English,,cidadaodoamanha
+437,PES English,,nossofuturo
+438,PES English,,alfaludi
+439,PES English,,galileudecacapava
+440,PES English,,ideal
+441,PES English,,ceccianorte
+442,PES English,,tradicaosaojosedospinhais
+443,PES English,,cstawenceslaubraz
+444,PES English,,saojosebarreiras
+445,PES English,,prismafeiradesantana
+446,PES English,,recantofeliz
+447,PES English,,santoantoniobarbalha
+448,PES English,,padreviana
+449,PES English,,educator
+450,PES English,,ebenezer
+451,PES English,,educare
+452,PES English,,masterbayeux
+453,PES English,,masterbessa
+454,PES English,,dommaster
+455,PES English,,masterbancarios
+456,PES English,Piloto PES,positivosantamaria
+457,PES English,Piloto PES,positivomaster
+458,PES English,Piloto PES,positivojunior
+459,PES English,Piloto PES,positivojardimambiental
+460,PES English,,cafa
+461,PES English,,equipemacaiba
+462,PES English,,mundialnatal
+463,PES English,Piloto PES,positivojoinville
+464,PES English,,metariobranco
+465,PES English,,carpediemsede
+466,PES English,,carpediemmangabas
+467,PES English,,carpediemmontegordo
+468,PES English,,carpediemkids
+469,PES English,,carpediemvila
+470,PES English,,mimosodooeste
+471,PES English,,mundialsalvador
+472,PES English,,pedacinhodoceualexania
+473,PES English,,imaculadaconceicaocaceres
+474,PES English,,isaacnewton
+475,PES English,,centroeducacionalprimavera
+476,PES English,,novadinamica
+477,PES English,,madrecelesteananindeua
+478,PES English,,intelectual
+479,PES English,,madrecelesteicoaraci
+480,PES English,,madrecelestetapajos
+481,PES English,,madrecelestemarambaia
+482,PES English,,centroeducacionalexpoente
+483,PES English,,doremi
+484,PES English,,ressurreicao
+485,PES English,,doremibrasilia
+486,PES English,,futura
+487,PES English,,aeroisa
+488,PES English,,visao
+489,PES English,,danielberg
+490,PES English,,colmeia
+491,PES English,,happyschool
+492,PES English,,solnascente
+493,PES English,,novaaquarela
+494,PES English,,wings
+495,PES English,,acecbatista
+496,PES English,,tiacoruja
+497,PES English,,bebeprime
+498,PES English,,cepel
+499,PES English,Piloto PES,coopermundi
+500,PES English,,cad
+501,PES English,,exitus
+502,PES English,,piemont
+503,PES English,,ecelbandeirantes
+504,PES English,,passionistadejandaiadosul
+505,PES English,,intentus
+506,PES English,,paroquialparanavai
+507,PES English,,ecelurai
+508,PES English,,degrauaracatuba
+509,PES English,,pentagonocunha
+510,PES English,,metropolitana
+511,PES English,,madreanatolia
+512,PES English,,santoanjomasther
+513,PES English,,nossasenhoradasneves
+514,PES English,,saopedrocanisio
+515,PES English,,pilares
+516,PES English,,passosfirmesmatelandia
+517,PES English,,trilhandoofuturopinhais
+518,PES English,,positivotelemacoborba
+519,PES English,,domboscotomazina
+520,PES English,,coracaodemariauniaodavitoria
+521,PES English,,santoantoniojoinville
+522,PES English,,oficinajoinville
+523,PES English,,querubim
+524,PES English,,esfasaolourencodooeste
+525,PES English,,ulbraantares
+526,PES English,,ulbradeaplicacao
+527,PES English,,ulbracristosalvador
+528,PES English,,ulbrasaopaulo
+529,PES English,,ulbracristoredentor
+530,PES English,,franciscanosaojose
+531,PES English,,coopejbr
+532,PES English,,ulbramartinho
+533,PES English,,aprenderguaiba
+534,PES English,,girassolnaometoque
+535,PES English,,ulbrasaolucas
+536,PES English,,recriartecamboriu
+537,PES English,,carrosselindaial
+538,PES English,,metropolitanoindaial
+539,PES English,,futuro
+540,PES English,,ulbrapalmas
+541,PES English,,jeanpiagetaruja
+542,PES English,,riscomagico
+543,PES English,,torreforte
+544,PES English,,videirinha
+545,PES English,,videirajundiai
+546,PES English,,omega
+547,PES English,Piloto PES,universos
+548,PES English,,novageracao
+549,PES English,,dantas
+550,PES English,,martinspenna
+551,PES English,,castelobranco
+552,PES English,,santamonicasaopaulo
+553,PES English,,cruzeirodosul
+554,PES English,,lua
+555,PES English,,gerar
+556,PES English,,unico
+557,PES English,,passaro
+558,PES English,,evoluir
+559,PES English,,cunhacarvalho
+560,PES English,,irenebargieri
+561,PES English,,inovacaoperuibe
+562,PES English,,oliveiras
+563,PES English,,netuno
+564,PES English,,moriah
+565,PES English,,faculdrummond
+566,PES English,,carlosdrummonddeandrade
+567,PES English,,joaoxxiiisaopaulo
+568,PES English,,luteranosp
+569,PES English,,formosa
+570,PES English,,potymirim
+571,PES English,,comercialalvorada
+572,PES English,,aparecida
+573,PES English,,emilioderousseau
+574,PES English,,cocarapiraca
+575,PES English,,cescmanaus
+576,PES English,,fundamental
+577,PES English,,domboscosalvador
+578,PES English,,portinariteixeiradefreitas
+579,PES English,,kids
+580,PES English,,piagetalmenara
+581,PES English,,diamantecarmodamata
+582,PES English,,riscoerabisco
+583,PES English,,presbiteriano
+584,PES English,,teixeiraneto
+585,PES English,,diamante
+586,PES English,,augustus
+587,PES English,,alfabelem
+588,PES English,,primeirainfancia
+589,PES English,,genteimportante
+590,PES English,,saomarcosalvorada
+591,PES English,,esimedianeira
+592,PES English,,santateresinhacampobom
+593,PES English,,lasallecarmo
+594,PES English,,imaculadaconceicaodoisirmaos
+595,PES English,,institutodeeducacaosaojosemontenegro
+596,PES English,,institutomeninodeus
+597,PES English,,santamonicapelotas
+598,PES English,,fema
+599,PES English,,concordiasantoangelo
+600,PES English,,luteranoconcordiasaoleopoldo
+601,PES English,,volaresoledade
+602,PES English,,cruzesouza
+603,PES English,,uni
+604,PES English,,santarosadelima
+605,PES English,,nossasenhoradefatimapomerode
+606,PES English,,global
+607,PES English,,cetisa
+608,PES English,,jesuscristorei
+609,PES English,,casadoestudante
+610,PES English,,apiceserra
+611,PES English,,cecaf
+612,PES English,,coracaodeestudante
+613,PES English,,santacruzbelohorizonte
+614,PES English,,bek
+615,PES English,,nsradosantissimosacramento
+616,PES English,,institutodombosco
+617,PES English,,fabia
+618,PES English,,interacaodemarilia
+619,PES English,,mundocolorido
+620,PES English,,oceupositivo
+621,PES English,,multiplus
+622,PES English,,queirozbrunelli
+623,PES English,,sei
+624,PES English,,fama
+625,PES English,,educacaocriativa
+626,PES English,,educacaocriativadavila
+627,PES English,,nsradasgracas
+628,PES English,,novomundo
+629,PES English,,joaopauloii
+630,PES English,,riachuelo
+631,PES English,,centrormacabu
+632,PES English,,ceportugal
+633,PES English,,artedosaber
+634,PES English,,crescer
+635,PES English,,magnus
+636,PES English,,triacao
+637,PES English,,trevo
+638,PES English,,centroeducacionaldepiraju
+639,PES English,,sagradafamiliasalto
+640,PES English,,cooperativadeensinosantarita
+641,PES English,,alamo
+642,PES English,,saojoseapucarana

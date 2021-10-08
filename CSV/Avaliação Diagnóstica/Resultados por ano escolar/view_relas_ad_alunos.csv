@@ -1,0 +1,113 @@
+,namespace,grade,Porcentagem de visualização dos relatórios de AD por alunos
+0,testevictorhugo,ef 7o ano,1.0
+1,colegiocb,ef 3o ano,0.5172413793103449
+2,colegioplanck,ef 8o ano,0.4
+3,colegioplanck,ef 6o ano,0.36666666666666664
+4,colegioplanck,ef 7o ano,0.36363636363636365
+5,colegioplanck,em 1a serie,0.3
+6,colegioplanck,ef 9o ano,0.2727272727272727
+7,santoamerico,em 1a serie,0.24615384615384617
+8,physicsbatistacampos,outro,0.23076923076923078
+9,santoamerico,outro,0.19883040935672514
+10,santoamerico,em 3a serie,0.17272727272727273
+11,santoamerico,em 2a serie,0.16037735849056603
+12,master,ef 7o ano,0.15625
+13,porto,em 1a serie,0.13043478260869565
+14,master,outro,0.12627450980392158
+15,master,ef 6o ano,0.12465753424657534
+16,sas,infantil iv,0.11904761904761904
+17,master,ef 9o ano,0.10826210826210826
+18,dommga,em 3a serie,0.10526315789473684
+19,francobrasileiro,em 3a serie,0.10317460317460317
+20,master,ef 8o ano,0.09925558312655088
+21,master,ef 5o ano,0.09904601571268239
+22,master,ef 2o ano,0.08095238095238096
+23,master,em 2a serie,0.0777027027027027
+24,master,ef 4o ano,0.07592592592592592
+25,master,em 1a serie,0.07380073800738007
+26,master,ef 1o ano,0.06976744186046512
+27,physicsbatistacampos,ef 5o ano,0.05555555555555555
+28,physicsumarizal,ef 5o ano,0.05555555555555555
+29,physicsbatistacampos,ef 6o ano,0.05226480836236934
+30,aescobjetivo,em 3a serie,0.051587301587301584
+31,physicsbatistacampos,ef 7o ano,0.05120481927710843
+32,aescobjetivo,ef 9o ano,0.04964539007092199
+33,aescobjetivo,em 1a serie,0.04487179487179487
+34,aescobjetivo,em 2a serie,0.042357274401473306
+35,physicsumarizal,ef 7o ano,0.0391566265060241
+36,colegioplanck,outro,0.03571428571428571
+37,physicsalmirantebarroso,ef 9o ano,0.034482758620689655
+38,testevictorhugo,em 1a serie,0.03333333333333333
+39,physicsalmirantebarroso,ef 7o ano,0.03313253012048193
+40,physicsumarizal,ef 6o ano,0.0313588850174216
+41,physicsbatistacampos,ef 8o ano,0.028481012658227847
+42,physicsumarizal,ef 9o ano,0.02681992337164751
+43,physicscidadenova,ef 9o ano,0.022988505747126436
+44,physicscidadenova,ef 7o ano,0.02108433734939759
+45,physicscidadenova,ef 6o ano,0.020905923344947737
+46,physicsalmirantebarroso,ef 6o ano,0.017421602787456445
+47,physicsumarizal,ef 8o ano,0.015822784810126583
+48,physicsalmirantebarroso,ef 8o ano,0.015822784810126583
+49,physicsmacapa,ef 9o ano,0.01532567049808429
+50,physicsbatistacampos,ef 9o ano,0.01532567049808429
+51,colegiomundial,ef 6o ano,0.009174311926605505
+52,physicsmacapa,ef 7o ano,0.009036144578313253
+53,physicsaugustomontenegro,ef 8o ano,0.006329113924050633
+54,physicsmacapa,ef 8o ano,0.006329113924050633
+55,physicscidadenova,ef 8o ano,0.006329113924050633
+56,physicsmacapa,ef 6o ano,0.003484320557491289
+57,colegiodompedrosegundo,em 3a serie,0.0
+58,beityaacov,em 3a serie,0.0
+59,physicsmacapa,em 1a serie,0.0
+60,physicsmacapa,outro,0.0
+61,colegiomundial,ef 8o ano,0.0
+62,colegiodompedrosegundo,em 1a serie,0.0
+63,sas,em 3a serie,0.0
+64,sas,em 1a serie,0.0
+65,colegiomundial,ef 7o ano,0.0
+66,colegiodompedrosegundo,em 2a serie,0.0
+67,saberviver,ef 5o ano,0.0
+68,saberviver,ef 4o ano,0.0
+69,colegiomundial,ef 5o ano,0.0
+70,physicsumarizal,em 1a serie,0.0
+71,physicsumarizal,outro,0.0
+72,santoamerico,ef 1o ano,0.0
+73,qescola,ef 2o ano,0.0
+74,qescola,ef 6o ano,0.0
+75,qescola,em 1a serie,0.0
+76,qescola,em 3a serie,0.0
+77,qescola,infantil iv,0.0
+78,qescola,outro,0.0
+79,rede,ef 9o ano,0.0
+80,colegiodompedrosegundo,outro,0.0
+81,master,ef 3o ano,0.0
+82,physicsmacapa,ef 5o ano,0.0
+83,physicscidadenova,outro,0.0
+84,jardimsaopaulo,em 1a serie,0.0
+85,jardimsaopaulo,ef 7o ano,0.0
+86,equipe,infantil iv,0.0
+87,equipe,em 1a serie,0.0
+88,equipe,ef 7o ano,0.0
+89,colegionovageracao,ef 5o ano,0.0
+90,colegionovageracao,ef 4o ano,0.0
+91,master,em 3a serie,0.0
+92,colegionovageracao,ef 3o ano,0.0
+93,physicsalmirantebarroso,ef 5o ano,0.0
+94,colegionovageracao,ef 2o ano,0.0
+95,physicsalmirantebarroso,em 1a serie,0.0
+96,colegiomundial,outro,0.0
+97,physicsaugustomontenegro,ef 5o ano,0.0
+98,physicsaugustomontenegro,ef 6o ano,0.0
+99,physicsaugustomontenegro,ef 7o ano,0.0
+100,physicsaugustomontenegro,ef 9o ano,0.0
+101,physicsaugustomontenegro,em 1a serie,0.0
+102,physicsaugustomontenegro,outro,0.0
+103,colegiomundial,em 3a serie,0.0
+104,colegiomundial,em 2a serie,0.0
+105,colegiomundial,em 1a serie,0.0
+106,physicsbatistacampos,em 1a serie,0.0
+107,colegiomundial,ef 9o ano,0.0
+108,physicscidadenova,ef 5o ano,0.0
+109,jardimsaopaulo,infantil iv,0.0
+110,physicscidadenova,em 1a serie,0.0
+111,physicsalmirantebarroso,outro,0.0
